@@ -1,0 +1,9 @@
+Package: com.1cjj0.storediagnostics
+Name: Store Diagnostics Starter
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Diagnostic-only Theos starter for App Store and iTunes Store on iOS 8. Does not fix connectivity.
+Maintainer: 1cjj0
+Author: 1cjj0
+Section: Tweaks
+Depends: firmware (>= 8.0)
